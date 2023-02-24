@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<img src="https://cdn.discordapp.com/attachments/1069432148186112081/1078603247377461318/d24007-253-20f3b1782f185f19992d-0.png">
+<img src="https://cdn.discordapp.com/attachments/1069432148186112081/1078629249474383902/d24007-253-20f3b1782f185f19992d-0.png">
 
 ![visitors](https://vbr.wocr.tk/badge?page_id=gustavosett&color=00cf00) 
 
