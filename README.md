@@ -25,8 +25,8 @@ Here are some ideas to get you started:
 ## ⬆ 𝚆𝚑𝚊𝚝 𝙸'𝚖 𝚞𝚙 𝚝𝚘
 - 🔨 𝙸'𝚖 𝚌𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢...
 ```yaml
+Developing a forest monitoring system with artificial intelligence that detects potential fires and triggers alarms.
 Developing the entire inventory system, database and e-commerce platform for the company SolarSystemBrasil.
-Developing a complete computer e-shop from 0
 ```
 - 🎯 𝙸𝚗 𝚝𝚑𝚎 𝚗𝚎𝚊𝚛 𝚏𝚞𝚝𝚞𝚛𝚎, 𝙸 𝚙𝚕𝚊𝚗 𝚝𝚘...
 	- Increase my knowledge in Data Science and Artificial Intelligence.
