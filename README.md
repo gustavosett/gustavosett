@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 ## :book: 𝙰𝚋𝚘𝚞𝚝 𝙼𝚎
 - 👴🏻 23y
 - 🖥 𝙵𝚞𝚕𝚕-𝚜𝚝𝚊𝚌𝚔 𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛
-- ✍️ Senior graphic designer migrating to back-end development
+- ✍️ Senior graphic designer migrating to development
 - 🎓 Studying Informαtion Technology αt Unisinos University
 - 🧑🏻‍🏫 Graduate in Introduction to Computer Science at Harvard University.
 - 🐶 Father of 3 dogs: Luffy, Ace, and Zoro.
