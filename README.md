@@ -21,6 +21,7 @@ Here are some ideas to get you started:
 - 🖥 𝙵𝚞𝚕𝚕-𝚜𝚝𝚊𝚌𝚔 𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛
 - ✍️ Senior graphic designer migrating to back-end development
 - 🎓 Studying Informαtion Technology αt Unisinos University
+- 🧑🏻‍🎓 Certified in Introduction to Computer Science at Harvard University.
 - 🐶 Father of 3 dogs: Luffy, Ace, and Zoro.
 
 ## ⬆ 𝚆𝚑𝚊𝚝 𝙸'𝚖 𝚞𝚙 𝚝𝚘
