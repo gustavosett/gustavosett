@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 - ✍️ +8 years as graphic designer
 - 🎓 Studying Informαtion Technology αt Unisinos University
 - 🧑🏻‍🏫 Graduate in Introduction to Computer Science at Harvard University.
-- 🐶 Father of 3 dogs: Luffy, Ace, and Zoro.
+- 🐶 Father of 5 dogs: Luffy, Ace, Zoro, King and Hyori.
 
 ## ⬆ 𝚆𝚑𝚊𝚝 𝙸'𝚖 𝚞𝚙 𝚝𝚘
 - 🔨 𝙸'𝚖 𝚌𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢...
