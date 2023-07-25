@@ -31,11 +31,10 @@ Developing a forest monitoring system with artificial intelligence that detects 
 ```
 - 🎯 𝙸𝚗 𝚝𝚑𝚎 𝚗𝚎𝚊𝚛 𝚏𝚞𝚝𝚞𝚛𝚎, 𝙸 𝚙𝚕𝚊𝚗 𝚝𝚘...
 	- Increase my knowledge in Data Science and Artificial Intelligence.
-	- Develop a web platform for creating Telegram bots through a graphical interface.
+	- Become a senior developer
 	- Graduate from Unisinos University.
 
 - 🤞 𝙾𝚗𝚎 𝚍𝚊𝚢 𝙸 𝚑𝚘𝚙𝚎 𝚝𝚘...
-	- Become a senior developer.
 	- Develop a truly useful tool for society that can improve everyone's lives.
 	- Save enough money to get married.
 
