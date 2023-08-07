@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 ## :book: 𝙰𝚋𝚘𝚞𝚝 𝙼𝚎
 - 👴🏻 23y
-- 🖥 𝙵𝚞𝚕𝚕-𝚜𝚝𝚊𝚌𝚔 𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛
+- 🖥 back-end 𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛
 - ✍️ +8 years as graphic designer
 - 🎓 Studying Informαtion Technology αt Unisinos University
 - 🧑🏻‍🏫 Graduate in Introduction to Computer Science at Harvard University.
