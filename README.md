@@ -1,27 +1,14 @@
-<!--
-**gustavosett/gustavosett** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
 <img src="https://cdn.discordapp.com/attachments/1069432148186112081/1078629249474383902/d24007-253-20f3b1782f185f19992d-0.png">
 
-![visitors](https://vbr.wocr.tk/badge?page_id=gustavosett)
+</p>
 
+![visitors](https://vbr.wocr.tk/badge?page_id=gustavosett)
 ## :book: 𝙰𝚋𝚘𝚞𝚝 𝙼𝚎
 - 👴🏻 23y
 - 🖥 back-end 𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛
-- ✍️ +8 years as graphic designer
 - 🎓 Studying Informαtion Technology αt Unisinos University
-- 🧑🏻‍🏫 Graduate in Introduction to Computer Science at Harvard University.
+- 🧑🏻‍🏫 Graduate in CS50x at Harvard University.
 - 🐶 Father of 5 dogs: Luffy, Ace, Zoro, King and Hyori.
 
 ## ⬆ 𝚆𝚑𝚊𝚝 𝙸'𝚖 𝚞𝚙 𝚝𝚘
@@ -29,14 +16,6 @@ Here are some ideas to get you started:
 ```yaml
 Developing a forest monitoring system with artificial intelligence that detects potential fires and triggers alarms.
 ```
-- 🎯 𝙸𝚗 𝚝𝚑𝚎 𝚗𝚎𝚊𝚛 𝚏𝚞𝚝𝚞𝚛𝚎, 𝙸 𝚙𝚕𝚊𝚗 𝚝𝚘...
-	- Increase my knowledge in Data Science and Artificial Intelligence.
-	- Become a senior developer
-	- Graduate from Unisinos University.
-
-- 🤞 𝙾𝚗𝚎 𝚍𝚊𝚢 𝙸 𝚑𝚘𝚙𝚎 𝚝𝚘...
-	- Develop a truly useful tool for society that can improve everyone's lives.
-	- Save enough money to get married.
 
 ## 📫 𝙷𝚘𝚠 𝚝𝚘 𝚛𝚎𝚊𝚌𝚑 𝚖𝚎:
 𝚈𝚘𝚞 𝚌𝚊𝚗 𝚛𝚎𝚊𝚌𝚑 𝚖𝚎 𝚊𝚝 𝚝𝚑𝚎 𝚎𝚖𝚊𝚒𝚕 𝚒𝚗 𝚖𝚢 𝚐𝚒𝚝𝚑𝚞𝚋 𝚙𝚛𝚘𝚏𝚒𝚕𝚎. 𝙵𝚘𝚕𝚕𝚘𝚠 𝚖𝚢 𝚜𝚘𝚌𝚒𝚊𝚕𝚜!
